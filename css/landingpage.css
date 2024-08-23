@@ -1,0 +1,15 @@
+/* CSS styling for the landing */
+/* These are selectors */
+p {
+    color: red;
+}
+
+body {
+    background-color: powderblue;
+}
+
+div {
+    color: yellow;
+    background-color: black;
+
+}
